@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR6q0406/j/v1/juan/0
 seq: 0
 front:
-  text: 牧雲和尚七會餘録目録卷之一上堂小參夜參普說示衆示語禪淨玄旨卷之二室中語要書答語天童上堂天王開光祖師開光安座卷之三像讚佛事卷之四偈上卷之五偈中卷之六偈下七會餘録目録終
-  hash: sha256:fe403c9e148195368a681cf20a3f5445467481cc9fe541e8c42d81be052f088b
+  text: 牧雲和尚七會餘錄目錄卷之一上堂小參夜參普說示眾示語禪淨玄旨卷之二室中語要書答語天童上堂天王開光祖師開光安座卷之三像讚佛事卷之四偈上卷之五偈中卷之六偈下七會餘錄目錄終
+  hash: sha256:129ea80b41d80bd1bdf810c099b682fa81894d63c088c5e893e965420545124c
   markers:
   - {type: 其他, offset: 0, content: 目錄, id: KR6q0406_J_000-mulu-1, level: '1'}
 body:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/J/J26/J26nB184.xml
     old_id: J26nB184
-hash: sha256:c8f77849e2fe381e22dbf1ad7b9af61bb10b3bfaa5a0eb32bf257d1dcbd391f6
+hash: sha256:0fa7a226bc459ecbdc1dc98a6d93c32e9fc606b25ae3cef7a0702dfe9ae0d192
